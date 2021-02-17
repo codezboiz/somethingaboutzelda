@@ -1,0 +1,28 @@
+body {
+  background-color: #dcf2ec;
+}
+
+a, h1, h2, h3, h4, h5, h6, p {
+  font-family: "Lucida Handwriting";
+  font-size: 23px;
+}
+
+h1 {
+  text-shadow: 2px, 2px, 5px, #dcf2ec;
+}
+
+a:link {
+  color: #2f69b5;
+}
+
+a:visited {
+  color: #8a9596;
+}
+
+a:hover {
+  color: #8eced4;
+}
+
+a:active {
+  color: #000000;
+}
