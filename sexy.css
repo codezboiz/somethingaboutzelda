@@ -7,6 +7,10 @@ a, h1, h2, h3, h4, h5, h6, p {
   font-size: 23px;
 }
 
+.brn {
+  color: #9e8e62 !important;
+}
+
 h1 {
   text-shadow: 2px, 2px, 5px, #dcf2ec;
 }
